@@ -333,6 +333,10 @@ a {
         font-weight: 200;
         margin-top: 5%;
     }
+    
+    .header-button {
+        padding-left: 80%;
+      }
 }
 
 @media screen and (max-width: 820px){
@@ -479,6 +483,10 @@ a {
         font-weight: 200;
         margin-top: 5%;
     }
+
+    .header-button {
+        padding-left: 80%;
+      }
 }
 
 @media screen and (max-width: 768px){
@@ -620,6 +628,9 @@ a {
         font-weight: 200;
         margin-top: 5%;
     }
+    .header-button {
+        padding-left: 80%;
+      }
 }
 
 @media screen and (max-width: 430px){
@@ -764,6 +775,10 @@ a {
         font-size: 20px;
         margin-left: 36%;
     }
+
+    .header-button {
+        padding-left: 80%;
+      }
 }
 @media screen and (max-width: 390px){
     .header-section{
@@ -906,4 +921,8 @@ a {
         font-size: 20px;
         margin-left: 36%;
     }
+
+    .header-button {
+        padding-left: 80%;
+      }
 }
